@@ -1,1 +1,2 @@
-# State-resolved-coherence-length
+# State-resolved coherence length
+The state-resolved coherence length is a metric quantifying the spatial extent of an individual quantum state. The code in this repository applies it to states in a disordered periodic system and using statistical and scaling arguments to find the Anderson localization transition.# State-resolved-coherence-length
